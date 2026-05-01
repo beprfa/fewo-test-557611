@@ -8,8 +8,8 @@ _Stand: Februar 2026_
 ## 1. Verantwortlicher
 
 Nicole Neckermann
-Waldstraße
-18225 Kühlungsborn
+Pariser Platz
+73500 Seligensadt
 Deutschland
 E-Mail: nicole.neckermann@icloud.com
 
@@ -57,9 +57,9 @@ Zur Ausübung Ihrer Rechte schreiben Sie an nicole.neckermann@icloud.com.
 
 Sie haben das Recht, sich bei einer Aufsichtsbehörde zu beschweren. Die für uns zuständige Aufsichtsbehörde ist:
 
-Bayerisches Landesamt für Datenschutzaufsicht (BayLDA)
-Promenade 18, 91522 Ansbach
-Website: www.lda.bayern.de
+Der Landesbeauftragte für den Datenschutz und die Informationsfreiheit Baden-Württemberg (LfDI BW)
+Lautenschlagerstraße 20, 70173 Stuttgart
+Website: www.baden-wuerttemberg.datenschutz.de
 
 Sie können sich auch an die Datenschutzbehörde Ihres Wohnsitzlandes wenden.
 
